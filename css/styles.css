@@ -22,8 +22,8 @@ h3 {
   border: 1px solid black;
   border-collapse: collapse;
 }
-ul,ol,li {
-  align-content: center;
+ul {
+  
   text-align: center;
   list-style-position: inside;
 }
