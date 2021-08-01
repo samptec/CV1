@@ -23,10 +23,9 @@ h3 {
   border-collapse: collapse;
 }
 ul,ol,li {
-  
-  text-align: left;
-  margin-left: 45%;
-  list-style-position: inside;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .education: {
 border-collapse: collapse;
