@@ -24,7 +24,8 @@ h3 {
 }
 ul,ol,li {
   
-  text-align: center;
+  text-align: left;
+  margin-left: 45%;
   list-style-position: inside;
 }
 .education: {
