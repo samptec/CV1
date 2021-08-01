@@ -27,9 +27,7 @@ ul,ol,li {
   margin-left: auto;
   margin-right: auto;
 }
-.sub {
-  list-style-type: lower-roman;
-}
+
 .education: {
 border-collapse: collapse;
   border: 1px solid black;
