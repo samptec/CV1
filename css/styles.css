@@ -24,8 +24,8 @@ h3 {
 }
 ul,ol,li {
   align-content: center;
-  display: table;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 .education: {
 border-collapse: collapse;
