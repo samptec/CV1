@@ -1,0 +1,43 @@
+body {
+  background-color: #e8e4e1;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #7c3c21;
+}
+
+h3 {
+  text-align: center;
+  color: #7c3c21;
+}
+.education {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+ul,ol,li {
+  align-content: center;
+}
+.education: {
+border-collapse: collapse;
+  border: 1px solid black;
+}
+th {
+  background-color: #7c3c21;
+  color: #e8e4e1;
+}
+.skills {
+  border-collapse: collapse;
+  border: 1px black;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
