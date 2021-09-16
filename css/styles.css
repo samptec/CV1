@@ -22,7 +22,7 @@ h3 {
   border: 1px solid black;
   border-collapse: collapse;
 }
-ul,ol,li {
+.abtedu, .hob {
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
